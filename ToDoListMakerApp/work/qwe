@@ -1,0 +1,28 @@
+
+{
+    "name":"qwewq",
+    "owner":"qweqwe",
+    "items":[
+        {
+            "category":"qwe",
+            "description":"qwe",
+            "start_date":"2016-06-10",
+            "end_date":"2016-06-11",
+            "completed":false
+        },
+        {
+            "category":"qwe",
+            "description":"qwe",
+            "start_date":"2016-06-10",
+            "end_date":"2016-06-11",
+            "completed":true
+        },
+        {
+            "category":"dsds",
+            "description":"zdfs",
+            "start_date":"2016-06-10",
+            "end_date":"2016-06-11",
+            "completed":true
+        }
+    ]
+}

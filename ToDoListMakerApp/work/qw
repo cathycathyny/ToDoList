@@ -1,0 +1,14 @@
+
+{
+    "name":"asdasd",
+    "owner":"123132",
+    "items":[
+        {
+            "category":"21321",
+            "description":"4564",
+            "start_date":"2016-06-03",
+            "end_date":"2016-06-09",
+            "completed":true
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+
+{
+    "name":"ar feng go eat chicken",
+    "owner":"chen zhifeng",
+    "items":[
+        {
+            "category":"chicken chicken",
+            "description":"chicken",
+            "start_date":"2016-06-10",
+            "end_date":"2016-06-11",
+            "completed":false
+        },
+        {
+            "category":"asdas",
+            "description":"asdas",
+            "start_date":"2016-06-10",
+            "end_date":"2016-06-11",
+            "completed":false
+        },
+        {
+            "category":"asdas",
+            "description":"asdasd",
+            "start_date":"2016-06-10",
+            "end_date":"2016-06-11",
+            "completed":false
+        }
+    ]
+}
